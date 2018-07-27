@@ -9,3 +9,5 @@ To run this notebook,
 3. open 'Regression.ipynb' and run. 
 
 #### Directory Structure
+datasets - Contain csv files for datasets provided by Drivendata
+presentation - Contain the presentation for the evaluation
